@@ -1,0 +1,49 @@
+html, body {
+    background: #FF416C;  
+    background: linear-gradient(to bottom, #FF4B2B, #FF416C); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-size:90%;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.3px;
+    }
+    h2
+    {
+        background-color:white;
+        text-align: center;
+        Margin-left: 29em;
+        background-position: center;
+        Margin-right: 35em;
+        Font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        Border-style: 2px; 
+        line-height: 200%;
+        Margin-top: 2em;  
+        justify-content: space-evenly;  
+    }
+    .struct p,h3
+    {   background-color:white;
+        text-align: center;
+        Margin-left: 34em;
+        Margin-right: 45em;
+        Font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        Border-style: 2px;
+        line-height: 200%;
+        Margin-top: 2em;  
+        background-position: center; 
+    }
+       
+    .del h4
+    {   background-color:white;
+        text-align: center;
+        Margin-top: 1em;
+        Margin-left: 34em;
+        Margin-right: 45em;
+        Font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        background-position: center;
+    }
+    
